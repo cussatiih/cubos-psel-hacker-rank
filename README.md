@@ -5,7 +5,7 @@
 -   [x] Idosos
 -   [x] Tamanho das camisas
 -   [x] Cores
--   [ ] Esconde-esconde
+-   [x] Esconde-esconde
 -   [ ] Vacinação
 -   [ ] Clientes Premium
 -   [ ] Brasil com "P"
