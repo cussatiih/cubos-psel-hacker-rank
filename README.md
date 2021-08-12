@@ -6,8 +6,8 @@
 -   [x] Tamanho das camisas
 -   [x] Cores
 -   [x] Esconde-esconde
--   [ ] Vacinação
--   [ ] Clientes Premium
+-   [x] Vacinação
+-   [x] Clientes Premium
 -   [ ] Brasil com "P"
 -   [ ] Veri, o Valdo
 -   [ ] Carrosel
